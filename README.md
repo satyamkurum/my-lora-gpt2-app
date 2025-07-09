@@ -1,4 +1,4 @@
-#LoRA Fine-Tuned GPT-2: Quotes, Poems & Conversations Generator
+# LoRA Fine-Tuned GPT-2: Quotes, Poems & Conversations Generator
 
 This project fine-tunes OpenAI’s GPT-2 using the [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) technique on a curated dataset of:
 
@@ -33,10 +33,10 @@ The final model is lightweight (~7MB adapter) and runs efficiently on CPUs/GPUs 
 
 ##  Project Structure
 
-  my-lora-gpt2-app/
-├── app.py # Gradio web interface
-├── requirements.txt # Python dependencies
-├── lora_finetuned_model/ # LoRA adapter and tokenizer files
+my-lora-gpt2-app/
+- app.py # Gradio web interface
+- requirements.txt # Python dependencies
+- lora_finetuned_model/ # LoRA adapter and tokenizer files
 
 
 
