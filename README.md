@@ -42,10 +42,10 @@ my-lora-gpt2-app/
 
 ## Credits
 
-Transformers by Hugging Face
-PEFT: Parameter Efficient Fine-Tuning
+- Transformers by Hugging Face
+- PEFT: Parameter Efficient Fine-Tuning
 
-## 📊 Datasets
+## Datasets Used
 
 ### 1. Ubuntu Dialogue Corpus  
 -  [GitHub – rkadlec/ubuntu-ranking-dataset-creator](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)  
