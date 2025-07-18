@@ -65,17 +65,17 @@ my-lora-gpt2-app/
 ##  Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/lora-gpt2-app.git
+git clone https://github.com/satyamkurum/my-lora-gpt2-app.git
 cd lora-gpt2-app
 pip install -r requirements.txt
 python app.py
 ```
 ## About Me
   Satyam Kurum
-- Aspiring Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
+- Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
 - Passionate about GenAI, NLP, and creative machine learning apps
 
-- You're free to use, modify, and distribute it with attribution.
+- You are free to use, modify, and distribute it with attribution.
 
 
 
