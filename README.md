@@ -1,4 +1,4 @@
-# LoRA Fine-Tuned GPT-2: Quotes, Poems & Conversations Generator
+# LoRA Fine-Tuned GPT : Quotes, Poems & Conversations Generator
 
 This project fine-tunes OpenAI’s GPT-2 using the [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) technique on a curated dataset of:
 
@@ -72,7 +72,7 @@ python app.py
 ```
 ## About Me
   Satyam Kurum
-- Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
+- Data Scientist | ML Developer | NITK Surathkal Graduate 2025
 - Passionate about GenAI, NLP, and creative machine learning apps
 
 - You are free to use, modify, and distribute it with attribution.
