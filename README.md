@@ -1,12 +1,12 @@
 # LoRA Fine-Tuned GPT : Quotes, Poems & Conversations Generator
 
-This project fine-tunes OpenAI’s GPT-2 using the [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685) technique on a curated dataset of:
+This project fine-tunes OpenAI’s GPT-2 using the LoRA (Low-Rank Adaptation) technique on a curated dataset of:
 
 -  Human-like conversations (Ubuntu Dialogue Corpus)
 -  Motivational quotes
 -  English poems
 
-The final model is lightweight (~7MB adapter) and runs efficiently on CPUs/GPUs — deployable as a web app using [Gradio](https://gradio.app).
+The final model is lightweight (~7MB adapter) and runs efficiently on CPUs/GPUs.
 
 ---
 
